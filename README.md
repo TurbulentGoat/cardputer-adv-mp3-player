@@ -5,6 +5,8 @@ from the microSD card through the built-in speaker or the 3.5 mm headphone
 jack, with a folder browser, shuffle and repeat, seeking, and a 3-band
 equaliser.
 
+<p align="center"> <img src="https://github.com/user-attachments/assets/fbefc593-042a-42ab-9c6d-a4289ba03ddc" alt="IMG_20261105_232914595" width="320"> </p>
+
 ## Features
 
 - Folder browser for the whole SD card, folders first, natural sort order
@@ -125,9 +127,12 @@ overall level drops as you boost, so turn the volume up to compensate.
 With every band at 0 dB the equaliser is bypassed entirely.
 
 ## Installing
+
 Either:
-1. Save the BIN to the Downloads folder to install via Launcher, or
-2. Flash the full image without using Launcher.
+
+Save the BIN to the Downloads folder to install via Launcher, or
+Flash the full image without using Launcher.
+<p align="center"> <img src="https://github.com/user-attachments/assets/fbefc593-042a-42ab-9c6d-a4289ba03ddc" alt="IMG_20261105_232914595" width="320"> <img src="https://github.com/user-attachments/assets/637206fc-8b0d-4a3e-ab58-865da29e83a9" alt="IMG_20261105_232923801" width="320"> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/96a574ef-d261-40c1-88b3-e79774ffa823" alt="IMG_20261105_232931284" width="180"> <img src="https://github.com/user-attachments/assets/f1452105-da92-45fa-bda8-2b10d25eeb43" alt="IMG_20261105_232937334" width="180"> <img src="https://github.com/user-attachments/assets/c594b73a-87a5-47e5-9cc3-661611f4496e" alt="IMG_20261105_232945418" width="180"> </p>
 
 ## Troubleshooting
 
