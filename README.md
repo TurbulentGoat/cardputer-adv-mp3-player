@@ -1,4 +1,4 @@
-# Cardputer MP3
+# Cardputer ADV MP3 Player
 
 An MP3 player firmware for the M5Stack Cardputer ADV. It plays `.mp3` files
 from the microSD card through the built-in speaker or the 3.5 mm headphone
