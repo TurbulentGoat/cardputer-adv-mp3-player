@@ -23,6 +23,8 @@ equaliser.
 - Volume, EQ, shuffle, repeat, brightness and the last folder are remembered
   across power cycles
 
+  <a href="https://www.buymeacoffee.com/turbulentgoat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Beer?" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Hardware
 
 - M5Stack Cardputer ADV (StampS3A, ESP32-S3FN8, ES8311 audio codec, TCA8418
@@ -169,3 +171,6 @@ other scripts appear as `?`.
 ESP8266Audio is licensed under GPL-3.0, so any binary built from this
 project is covered by GPL-3.0 if you distribute it. M5GFX, M5Unified and
 M5Cardputer are MIT licensed.
+
+<a href="https://www.buymeacoffee.com/turbulentgoat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Beer?" style="height: 60px !important;width: 217px !important;" ></a>
+
