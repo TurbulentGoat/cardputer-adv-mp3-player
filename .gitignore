@@ -13,3 +13,5 @@ compile_commands.json
 .vscode/launch.json
 .vscode/ipch/
 *.mp3
+
+*.bin
